@@ -9,9 +9,6 @@
     "status": "in-session",
     "why": null
   },
-  "instructions": {
-    "status": "none"
-  },
   "mcp_servers": [],
   "declared": {
     "harness": "infero-genesis",
