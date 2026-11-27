@@ -1,13 +1,24 @@
 {
-  "prompt": "Write main.ts for the token radar.",
-  "prompt_origin": "typed",
-  "prompt_via": "terminal",
-  "harness": "infero-genesis",
-  "harness_version": "1.0",
-  "provider": "anthropic",
-  "model": "claude-3-5-sonnet-20241022",
-  "effort": "default",
-  "system_prompt": "system_prompt.txt",
-  "instruction_files": "none",
-  "mcp_servers": "none"
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Build the best token launch radar.",
+    "origin": "typed",
+    "via": "terminal"
+  },
+  "system_prompt": {
+    "status": "in-session",
+    "why": null
+  },
+  "instructions": {
+    "status": "none"
+  },
+  "mcp_servers": [],
+  "declared": {
+    "harness": "infero-genesis",
+    "harness_version": "1.0",
+    "provider": "anthropic",
+    "model": "claude-3-5-sonnet-20241022",
+    "reasoning_effort": "default",
+    "notes": null
+  }
 }
