@@ -3,7 +3,7 @@
   "prompt": {
     "text": "Build the best token launch radar.",
     "origin": "typed",
-    "via": "terminal"
+    "via": null
   },
   "system_prompt": {
     "status": "in-session",
