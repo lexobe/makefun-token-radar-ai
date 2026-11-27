@@ -10,7 +10,8 @@
     "why": null
   },
   "instructions": {
-    "status": "none"
+    "status": "none",
+    "why": null
   },
   "mcp_servers": [],
   "declared": {

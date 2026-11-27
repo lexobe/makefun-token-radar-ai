@@ -29,9 +29,9 @@
       ],
       "timestamp": "2026-11-24T03:01:00.000Z",
       "usage": {
-        "prompt_tokens": 21,
-        "completion_tokens": 9751,
-        "total_tokens": 9772
+        "prompt_tokens": 28,
+        "completion_tokens": 9763,
+        "total_tokens": 9791
       }
     },
     {
@@ -64,9 +64,9 @@
       ],
       "timestamp": "2026-11-24T03:02:00.000Z",
       "usage": {
-        "prompt_tokens": 228,
-        "completion_tokens": 5094,
-        "total_tokens": 5322
+        "prompt_tokens": 217,
+        "completion_tokens": 5091,
+        "total_tokens": 5308
       }
     },
     {
@@ -104,9 +104,9 @@
       ],
       "timestamp": "2026-11-24T03:04:00.000Z",
       "usage": {
-        "prompt_tokens": 531,
-        "completion_tokens": 9768,
-        "total_tokens": 10299
+        "prompt_tokens": 536,
+        "completion_tokens": 9751,
+        "total_tokens": 10287
       }
     },
     {
@@ -139,9 +139,9 @@
       ],
       "timestamp": "2026-11-24T03:05:00.000Z",
       "usage": {
-        "prompt_tokens": 817,
-        "completion_tokens": 5109,
-        "total_tokens": 5926
+        "prompt_tokens": 821,
+        "completion_tokens": 5092,
+        "total_tokens": 5913
       }
     },
     {
@@ -170,9 +170,9 @@
       ],
       "timestamp": "2026-11-24T03:06:30.000Z",
       "usage": {
-        "prompt_tokens": 948,
-        "completion_tokens": 35,
-        "total_tokens": 983
+        "prompt_tokens": 949,
+        "completion_tokens": 32,
+        "total_tokens": 981
       }
     }
   ]
